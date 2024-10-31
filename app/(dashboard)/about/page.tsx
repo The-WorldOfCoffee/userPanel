@@ -1,5 +1,4 @@
-
-const AboutPage = (props: {}) => {
+const AboutPage = () => {
   return (
     <div>
       About Us!

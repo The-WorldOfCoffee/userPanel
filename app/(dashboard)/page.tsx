@@ -1,4 +1,4 @@
-const DashboardPage = (props: {}) => {
+const DashboardPage = () => {
 
   return <div>Hi im dashbaordPage</div>
 }
